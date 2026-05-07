@@ -69,7 +69,7 @@ export default function Navbar() {
 
             <div>
               <h1 className="text-3xl font-black text-zinc-900">
-                Cricket Coding
+                CriCode
               </h1>
 
               <p className="text-zinc-500 font-medium">
